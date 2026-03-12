@@ -6,6 +6,7 @@ public class Demo2 {
 
 		System.out.println("Practicing pull operation");
 		System.out.println("Through branch");
+		System.out.println("Practicing git conflict from Framework engineer workspace");
 	}
 
 }
